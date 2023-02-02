@@ -4,3 +4,5 @@ Model training done on the Google Colab.The goal of the project: recognize targe
 Detection classes: car, van, truck, bus, person
 
 ![](inferenced-image.jfif)
+
+![](inferenced2.jfif)
